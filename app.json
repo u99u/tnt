@@ -10,27 +10,27 @@
     ],
     "website": "https://github./haahjwjq/fidiwub",
     "env": {
-        "APP_ID": {
+        "23035365": {
             "description": "23035365",
             "value": "",
             "required": true
         },
-        "APP_HASH": {
+        "23812ade58347670ec522a457f8062f2": {
             "description": "23812ade58347670ec522a457f8062f2",
             "value": "",
             "required": true
         },
-        "TERMUX": {
+        "1AZWarzUBuzUwVQgD4j6EaLAN2jW_ZJ5l5CHL0r0g6n0jrw4W49PjOfCZWzePIi287H6DxT39ZPcR3G30G3fkokW5hQEOGjMQp6nVgABXNysLK7aMMr87LodlXn4mAnwe-FKeqzbmGFtLvCI9vbPW9hdYclGK69inoqv3ZIgag7wE9I-5lBywtzgrhgdmNTKWik-U8MKm6FUfk85_38B3WTYWt-WQscFtkngdI675zYD-XSvl7cMWHWABLwHMBexHaLUxNfihIBQl1RlVjTEFHIkkBJR086Obq9k3xQQ9ma9X4MseBCz-kjkgguH5DMx0zPst3yYade0AhPbEQ52Ns98kgCKNM6g=": {
             "description": "1AZWarzUBuzUwVQgD4j6EaLAN2jW_ZJ5l5CHL0r0g6n0jrw4W49PjOfCZWzePIi287H6DxT39ZPcR3G30G3fkokW5hQEOGjMQp6nVgABXNysLK7aMMr87LodlXn4mAnwe-FKeqzbmGFtLvCI9vbPW9hdYclGK69inoqv3ZIgag7wE9I-5lBywtzgrhgdmNTKWik-U8MKm6FUfk85_38B3WTYWt-WQscFtkngdI675zYD-XSvl7cMWHWABLwHMBexHaLUxNfihIBQl1RlVjTEFHIkkBJR086Obq9k3xQQ9ma9X4MseBCz-kjkgguH5DMx0zPst3yYade0AhPbEQ52Ns98kgCKNM6g=",
             "value": "",
             "required": true
         },
-        "TOKEN": {
+        "7285653962:AAEMfw-RRDBWKCANuoviWTcUkAENENbPS74": {
             "description": "7285653962:AAEMfw-RRDBWKCANuoviWTcUkAENENbPS74",
             "value": "",
             "required": true
         },
-        "BOT_USERNAME": {
+        "yyyyyyysrbot": {
             "description": "yyyyyyysrbot",
             "value": "",
             "required": true
